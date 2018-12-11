@@ -1,0 +1,5 @@
+name: First 2 drupal module
+description: Just first 2 module
+package: Custom
+type: module
+core: 8.x
